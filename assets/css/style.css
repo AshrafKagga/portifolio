@@ -606,7 +606,7 @@ Happy clients
     #clients h4{
         margin-top: 20px;
     }
-    #clients h4, #clients span{
+    #clients h4, span{
         text-align: center
     }
 }
