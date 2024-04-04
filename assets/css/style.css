@@ -602,7 +602,7 @@ Happy clients
 #clients i {
     font-size: 30px;
 }
-@media(max-width:600px){
+@media (max-width: 840px){
 #clients h4{
     margin-top: 20px;
 }
