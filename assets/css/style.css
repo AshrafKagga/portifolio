@@ -603,9 +603,12 @@ Happy clients
     font-size: 30px;
 }
 @media (max-width: 840px){
-#clients h4{
-    margin-top: 20px;
-}
+    #clients h4{
+        margin-top: 20px;
+    }
+    #clients h4, #clients span{
+        text-align: center
+    }
 }
 
 /* -------------------------------------------------------------
